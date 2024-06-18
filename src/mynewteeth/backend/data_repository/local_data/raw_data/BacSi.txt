@@ -1,0 +1,19 @@
+BS001#Lăng Tử Thần#0006-06-24#Nam#Hà Nội#0987654321#Nội khoa#Trưởng khoa#1.0E7
+BS002#Hoắc Vũ Hạo#0027-10-06#Nữ#Hải Phòng#0978645312#Ngoại khoa#Bác sĩ chính#1.8E7
+BS003#Đường Tam#0016-04-27#Nam#Đà Nẵng#0967534210#Nhi khoa#Phó trưởng khoa#1.95E7
+BS005#Lam Tiểu Bố#0030-06-06#Nam#Hải Dương#0945321098#Sản khoa#Trưởng khoa#2.1E7
+BS006#Lăng Hàn#0018-12-09#Nữ#Quảng Ninh#0934210987#Tim mạch#Bác sĩ chính#1.9E7
+BS007#Trần Anh Tuấn#0023-04-02#Nam#Thanh Hóa#0923109876#Thần kinh#Phó trưởng khoa#1.85E7
+BS008#Tiểu Vũ#0010-09-13#Nữ#Nghệ An#0912098765#Chấn thương chỉnh hình#Bác sĩ#1.65E7
+BS009#Ngưu Thần Nam#0005-12-02#Nam#Bắc Ninh#0901987654#Tiêu hóa#Trưởng khoa#2.05E7
+BS010#Bùi Thị Nga#0020-01-07#Nữ#Thái Bình#0890876543#Nội tiết#Bác sĩ chính#1.82E7
+BS011#Dương Văn Quý#0024-06-30#Nam#Ninh Bình#0880765432#Da liễu#Phó trưởng khoa#1.93E7
+BS012#Phan Thị L#0029-03-13#Nữ#Hòa Bình#0870654321#Mắt#Bác sĩ#1.75E7
+BS013#Lương Văn M#0013-02-02#Nam#Bắc Giang#0860543210#Thận#Trưởng khoa#2.13E7
+BS014#Cao Thị N#0003-09-05#Nữ#Vĩnh Phúc#0850432109#Tai mũi họng#Bác sĩ chính#1.87E7
+BS015#Trịnh Văn O#0017-05-11#Nam#Lào Cai#0840321098#Phổi#Phó trưởng khoa#1.97E7
+BS016#Phùng Thị P#0031-10-08#Nữ#Phú Thọ#0830210987#Lão khoa#Bác sĩ#1.78E7
+BS017#Lâm Văn Q#0020-10-31#Nam#Tuyên Quang#0820109876#Y học cổ truyền#Trưởng khoa#2.2E7
+BS018#Nguyễn Thị R#0008-09-13#Nữ#Hà Nam#0810098765#Nhiễm khuẩn#Bác sĩ chính#1.84E7
+BS019#Mai Văn Sang#0027-04-04#Nam#Hà Tĩnh#0800987654#Ung bướu#Phó trưởng khoa#2.01E7
+BS020#Lăng Tử Thần#06-06-0024#Nam#Hà Nội#0987654321#Nội khoa#Trưởng khoa#1.0E7

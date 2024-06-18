@@ -1,0 +1,30 @@
+D003#VP003#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D003#VP004#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D004#VP005#Đèn phòng mổ#Đồ gia dụng#Cái#50#875000.0#43750.0
+D005#VP006#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D006#VP007#Bộ dụng cụ y khoa#Y tế#Cái#50#875000.0#43750.0
+D006#VP008#Bình xịt tiêm#Đồ gia dụng#Cái#50#875000.0#43750.0
+D007#VP009#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D007#VP010#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D008#VP011#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D008#VP012#Găng tay y tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D014#VP004#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D014#VP007#Bộ dụng cụ y khoa#Y tế#Cái#50#875000.0#43750.0
+D014#VP003#Máy nhổ răng tự động#Đồ nội thất#Cái#50#875000.0#43750.0
+D016#VP004#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D016#VP007#Bộ dụng cụ y khoa#Y tế#Cái#50#875000.0#43750.0
+D016#VP003#Máy nhổ răng tự động#Đồ nội thất#Cái#50#875000.0#43750.0
+D015#VP011#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D015#VP012#Găng tay y tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D015#VP013#Nước rửa tay#Đồ gia dụng#Cái#100#30000.0#3000000.0
+D010#VP03#Máy áo#Chuyển khoản#Cái#3#3.0E7#9.0E7
+D002#VP002#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D002#VP003#fvwerfwe#fewfw#fưefwe#1#12.0#12.0
+D017#VP005#Thuốc gây tê#Y tế#Cái#100#2000.0#200000.0
+D019#VP004#Khẩu trang ý tế#Đồ gia dụng#Cái#50#875000.0#43750.0
+D019#VP007#Bộ dụng cụ y khoa#Y tế#Cái#50#875000.0#43750.0
+D019#VP003#Máy nhổ răng tự động#Đồ nội thất#Cái#50#875000.0#43750.0
+D012#VP001#Kem đánh răng#Đồ gia dụng#Cái#30#1000000.0#3.0E7
+D001#VP001#Kem đánh răng#Chuyển khoản#Cái#30#15000.0#450000.0
+D001#VP002#Sữa rửa mặt#Tiền mặt#Cái#60#14000.0#840000.0
+D018#VP001#Kem đánh răng#Đồ gia dụng#Cái#20#100000.0#2000000.0

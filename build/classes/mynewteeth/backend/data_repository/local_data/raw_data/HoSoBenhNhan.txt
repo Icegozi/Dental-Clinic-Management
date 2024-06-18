@@ -1,0 +1,18 @@
+BA001#2018-10-09#Sốt cao#Viêm tủy răng#Đường Tam#BS003#cấp cứu#2018-10-20#BN003
+BA002#2018-10-09#Sốt cao#Viêm tủy răng#Tiểu Vũ#BS008#cấp cứu#2018-10-20#BN002
+BA004#2020-03-12#Đau bụng#Viêm ruột#Trần Anh Tuấn#BS007#Ăn uống hợp lý#2018-10-20#BN006
+BA005#2022-02-14#Đau răng#Sâu răng#Tiểu Vũ#BS008#Hạn chế ăn đồ ngọt#2022-02-19#BN001
+BA006#2022-02-14#Mệt mỏi#Thiếu máu#Lăng Hàn#BS006#Bổ sung sắt#2022-02-19#BN009
+BA008#2017-11-09#Đau chân#Gout#Tiểu Vũ#BS008#Kiểm soát ăn uống#2017-11-14#BN008
+BA011#2023-05-01#Đau tai#Viêm tai giữa#Dương Văn Quý#BS011#Tránh nước vào tai#2023-05-06#BN011
+BA012#2020-08-15#Đau mỏi vai#Viêm cơ#Phan Thị L#BS012#Tập thể dục#2020-08-20#BN012
+BA013#2021-09-10#Khó thở#Hen suyễn#Lương Văn M#BS013#Tránh tác nhân gây dị ứng#2021-09-15#BN013
+BA014#2019-11-27#Đau mắt#Viêm kết mạc#Cao Thị N#BS014#Giữ vệ sinh mắt#2019-12-02#BN014
+BA015#2018-01-08#Đau bụng#Rối loạn tiêu hóa#Trịnh Văn O#BS015#Ăn uống hợp lý#2018-01-13#BN015
+BA016#2021-06-20#Đau cổ#Thoái hóa đốt sống cổ#Phùng Thị P#BS016#Vận động nhẹ nhàng#2021-06-25#BN016
+BA018#2018-12-19#Đau khớp#Viêm khớp#Nguyễn Thị R#BS018#Tập thể dục#2018-12-24#BN018
+BA019#2023-04-25#Đau dạ dày#Loét dạ dày#Mai Văn Sang#BS019#Kiểm soát ăn uống#2023-04-30#BN019
+BA020#2017-10-02#Đau vai#Thoái hóa đốt sống cổ#Lăng Tử Thần#BS020#Tập thể dục#2017-10-07#BN019
+BA033#2003-05-20#Đau răng#Sâu răng#Lăng Tử Thần#BS001#Không ăn thịt gà#2003-05-25#BN009
+BA035#2010-05-30#Sốt cao#Viên tủy răng#Hoắc Vũ Hạo#BS002#Cấp cứu khẩn cấp#2010-06-03#BN008
+BA036#2021-08-20#Đau vai#Gãy tay#Lăng Tử Thần#BS001#Ít vận động#2021-09-21#BN001

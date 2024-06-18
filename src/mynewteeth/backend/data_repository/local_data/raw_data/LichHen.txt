@@ -1,0 +1,3 @@
+LH001#Item 1#Bệnh nhân đã đặt trước#2024-05-12#BN001#BS001#adminhaui
+LH002#Lấy cao răng#Sốt#2020-06-06#BN003#BS001#adminhaui
+LH003#Item 1#ưeddwederfgrtwgw4rgw4#2021-02-06#BN004#BS001#admindoctor
